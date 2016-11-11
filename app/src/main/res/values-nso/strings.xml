@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_colors">Mebala</string>
+    <string name="category_family">Leloko</string>
+    <string name="category_numbers">de Nomoro</string>
+    <string name="category_phrases">Sekafoko </string>
+    <string name="lang_dialog_message">Kgetha puo</string>
+    <string name="lang_dialog_title">Puo</string>
+    <string name="language_setting">fetola puo</string>
+    <string name="setting_action"></string>
+    <string name="setting_language">fetola puo</string>
+    <string name="two">pedi</string>
+    <string name="three">tharo</string>
+    <string name="ten">lesome</string>
+    <string name="six">tshela</string>
+    <string name="seven">supa</string>
+    <string name="one">tee</string>
+    <string name="nine">senyane</string>
+    <string name="four">nne</string>
+    <string name="five">hlano</string>
+    <string name="eight">seswai</string>
+    <string name="red">kgubedu</string>
+    <string name="dusty_yellow">tshehla</string>
+    <string name="mustard_yellow">tshehla</string>
+    <string name="green">tala</string>
+    <string name="white">tshweu</string>
+    <string name="gray">thokwa</string>
+    <string name="brown">sootho</string>
+    <string name="black">ntsho</string>
+    <string name="your_speaking"> U bua</string>
+    <string name="yes"> E</string>
+    <string name="ocean"> leoatle</string>
+    <string name="no">ha ho</string>
+    <string name="fire"> mollo</string>
+    <string name="dog"> ntja</string>
+    <string name="are_you"> Na u hantle</string>
+    <string name="am_well">Ke phetse hantle</string>
+    <string name="Dont_forget">	Se lebale.</string>
+    <string name="uncle">malume </string>
+    <string name="sister">kgaitsedi</string>
+    <string name="mother">	Mma</string>
+    <string name="father">Tate</string>
+    <string name="grandmother"> nkgono </string>
+    <string name="grandfather"> rakgolo</string>
+    <string name="aunty">rakgadi</string>
+    <string name="brother"> moholwan</string>
+    <string name="fish" translatable="false"> tlhapi</string>
+    <string name="zero">iqanda</string>
+</resources>

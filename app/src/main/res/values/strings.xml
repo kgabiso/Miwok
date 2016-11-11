@@ -1,0 +1,60 @@
+<resources>
+
+    <string name="app_name">Miwok</string>
+    <string name="category_phrases">Phrases</string>
+    <string name="category_colors">Colors</string>
+    <string name="category_numbers">Numbers</string>
+    <string name="category_family">Family Members</string>
+    <string name="setting_action">Setting</string>
+    <string name="setting_language">Language Settings</string>
+    <string name="lang_dialog_title">Language</string>
+    <string name="lang_dialog_message">Select Language</string>
+    <string name="language_setting">Change Language</string>
+    <string name="one">one</string>
+    <string name="two">two</string>
+    <string name="three">three</string>
+    <string name="four">four</string>
+    <string name="five">five</string>
+    <string name="six">six</string>
+    <string name="seven">seven</string>
+    <string name="eight">eight</string>
+    <string name="nine">nine</string>
+    <string name="zero">zero</string>
+    <string name="red">red</string>
+    <string name="mustard_yellow">mustard yellow</string>
+    <string name="dusty_yellow">dusty yellow</string>
+    <string name="green">green</string>
+    <string name="brown">brown</string>
+    <string name="gray">gray</string>
+    <string name="black">black</string>
+    <string name="white">white</string>
+    <string name="Dont_forget">Don’t forget me!</string>
+    <string name="I_am">I am going now.</string>
+    <string name="Im_speaking">I’m speaking.</string>
+    <string name="your_speaking">You’re speaking.</string>
+    <string name="are_you">Are you well</string>
+    <string name="am_well">I am well.</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="dog">dog</string>
+    <string name="fish">fish</string>
+    <string name="fire">fire</string>
+    <string name="acorn">acorn</string>
+    <string name="ocean">ocean</string>
+    <string name="mother">mother</string>
+    <string name="father">father</string>
+    <string name="brother">brother</string>
+    <string name="sister">sister</string>
+    <string name="grandmother">grand mother</string>
+    <string name="grandfather">grand father</string>
+    <string name="aunty">aunt</string>
+    <string name="uncle">uncle</string>
+
+
+
+    <string-array name="lang_select">
+        <item>English</item>
+        <item>Zulu</item>
+        <item>Sepedi</item>
+    </string-array>
+</resources>

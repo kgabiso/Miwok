@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miwok</string>
+    <string name="category_colors">umbala</string>
+    <string name="category_family"> ilungu lomndeni</string>
+    <string name="category_numbers">inombolo</string>
+    <string name="category_phrases">umshwana</string>
+    <string name="lang_dialog_message">khetha ulimi</string>
+    <string name="lang_dialog_title">ulimi</string>
+    <string name="language_setting">shintsha ulimi</string>
+    <string name="setting_language">shintsha ulimi</string>
+    <string name="one">kunye</string>
+    <string name="two">kubili</string>
+    <string name="three">kutathu</string>
+    <string name="ten">lishumi</string>
+    <string name="six">isithupha</string>
+    <string name="seven">isikhombisa</string>
+    <string name="nine">isishiyagalolunye</string>
+    <string name="four">kune</string>
+    <string name="five">kuhlanu</string>
+    <string name="eight">isishiyagalombili</string>
+    <string name="red">bomvu</string>
+    <string name="white">mhlophe</string>
+    <string name="black">mnyama</string>
+    <string name="brown">nsundu</string>
+    <string name="dusty_yellow">liphuzi</string>
+    <string name="gray">mpunga</string>
+    <string name="green">luhlaza</string>
+    <string name="mustard_yellow">liphuzi</string>
+    <string name="am_well">ngiyaphila</string>
+    <string name="Dont_forget">ungangikhohlwa</string>
+    <string name="I_am">ngiyahamba manje</string>
+    <string name="Im_speaking">Ngikhuluma</string>
+    <string name="acorn">isithelo</string>
+    <string name="are_you">ukahle</string>
+    <string name="dog"> inja</string>
+    <string name="fire"> umlilo</string>
+    <string name="no">Cha</string>
+    <string name="ocean">ulwandle </string>
+    <string name="yes"> yebo</string>
+    <string name="your_speaking">uyakhuluma</string>
+    <string name="mother">umama</string>
+    <string name="father">ubaba</string>
+    <string name="brother"> umzalwane</string>
+    <string name="aunty">U-anti</string>
+    <string name="grandfather"> umkhulu</string>
+    <string name="grandmother"> ugogo</string>
+    <string name="sister"> udade</string>
+    <string name="uncle">malume </string>
+    <string name="fish" translatable="false">inhlanzi</string>
+    <string name="zero">lefela</string>
+</resources>
